@@ -1,8 +1,8 @@
 {
   "name": "purescript-intmap",
   "version": "1.0.0",
-  "description": "For using of JavaScript dictionaries and Int maps to any value.",
-  "license": "BSD-3-clause",
+  "description": "For using of JavaScript dictionaries and Int maps to `any` value, as `IntMap any`.",
+  "license": "BSD-3-Clause",
   "ignore": [
     "**/.*",
     "node_modules",
