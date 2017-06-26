@@ -1,0 +1,19 @@
+{
+  "name": "purescript-intmap",
+  "version": "1.0.0",
+  "description": "For using of JavaScript dictionaries and Int maps to any value.",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "npm_debug.log"
+  ],
+  "dependencies": {
+    "purescript-maps": "^3.0.0",
+    "purescript-prelude": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  }
+}
